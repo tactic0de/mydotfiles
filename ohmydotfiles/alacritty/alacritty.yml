@@ -1,0 +1,19 @@
+
+window:
+  opacity: 0.7
+
+font:
+  normal:
+    family: FiraCode Nerd Font
+    style: Medium
+  bold:
+    family: FiraCode Nerd Font
+    style: Bold
+  italic:
+    family: FiraCode Nerd Font
+    style: MediumItalic
+  bold_italic:
+    family: FiraCode Nerd Font
+    style: BoldItalic
+  size: 7
+draw_bold_text_with_bright_colors: true
